@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Dejar los dias en enteros",
+  "main": "index.js",
+  "dependencies": {
+    "d3-time": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "calcu","datos","lugar"
+  ],
+  "author": "Mauricio Sanchez",
+  "license": "ISC"
+}
