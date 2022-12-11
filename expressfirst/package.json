@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Maurisan4011/NodeJS2020CreaAplicaciones-RESTfulUDEMY#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-validator": "^6.4.0"
   }
 }
